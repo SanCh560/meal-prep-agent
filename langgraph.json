@@ -1,0 +1,6 @@
+{
+  "dependencies": ["."],
+  "graphs": {
+    "meal_prep": "./agent.py:workflow"
+  }
+}
